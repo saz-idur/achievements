@@ -1,2 +1,2 @@
 # achievements
-Learning GitHub. Pull Shark incoming!
+This PR is for the YOLO 🚀 achievement.
